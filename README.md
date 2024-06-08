@@ -18,7 +18,7 @@ In the first phase, we implemented the Arithmetic Logic Unit (ALU) and several r
 - **Registers and Register Files:** Implemented various registers to hold data and perform different operations on it.
 - **ALU:** Designed to handle multiple arithmetic, logic and shift operations.
 
-**Note:** The memory module was provided as part of the project specifications and was not implemented by us.
+**Note:** The memory module and helper were provided as part of the project specifications and were not implemented by us.
 
 ### Details
 
